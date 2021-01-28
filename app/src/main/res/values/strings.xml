@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="tape_your_email">tape your email</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="ok">ok</string>
+    <string name="empty_field">please fill all the fields</string>
+    <string name="wrong_id">please fill the correct email or password</string>
+    <string name="exemple">exemple</string>
+
+</resources>
